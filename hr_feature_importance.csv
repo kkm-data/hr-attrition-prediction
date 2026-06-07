@@ -1,0 +1,11 @@
+Feature,Coefficient
+BusinessTravel_Travel_Frequently,1.5719028176871797
+JobRole_Laboratory Technician,1.4120282922336538
+JobRole_Research Director,1.1674340728346082
+JobRole_Sales Representative,1.1650786036739849
+EducationField_Other,0.97993444339262
+MaritalStatus_Single,0.8935470958373489
+BusinessTravel_Travel_Rarely,0.8731302743213408
+OverTime,0.7465607696840179
+JobRole_Human Resources,0.5680370833454598
+TotalWorkingYears,0.523921991548835
